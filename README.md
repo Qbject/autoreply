@@ -48,17 +48,17 @@ https://github.com/user-attachments/assets/a30f7b83-7a8e-4daf-b064-9adbed9553b8
 
 2. **Create a virtual environment:**
    ```sh
-   python -m venv venv
+   python -m venv .venv
    ```
 
 3. **Activate the virtual environment:**
    - On Windows:
      ```sh
-     venv\Scripts\activate
+     .venv\Scripts\activate
      ```
    - On macOS/Linux:
      ```sh
-     source venv/bin/activate
+     source .venv/bin/activate
      ```
 
 4. **Install dependencies:**
