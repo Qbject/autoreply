@@ -1,6 +1,8 @@
 # Autoreply
 
-Autoreply is a cross-platform desktop application built on PyQt5 that allows users to connect their Telegram and VK accounts and automatically respond to incoming messages. The app offers a rich set of features, a verbose GUI, and flexible configuration options.
+Autoreply is a cross-platform desktop application built on PyQt5 that allows users to connect their Telegram and VK accounts and automatically respond to incoming messages. The app offers a rich set of features, a verbose user-friendly GUI, and flexible configuration options.
+
+https://github.com/user-attachments/assets/a30f7b83-7a8e-4daf-b064-9adbed9553b8
 
 ## Table of Contents
 
@@ -35,7 +37,6 @@ Autoreply is a cross-platform desktop application built on PyQt5 that allows use
 
 - Python 3.6+
 - Git
-- Required libraries (listed in `requirements.txt`)
 
 ## Installation
 
@@ -130,3 +131,7 @@ Autoreply is a cross-platform desktop application built on PyQt5 that allows use
 - **Qt Designer and UI Compilation:**
   - The app includes 2 UI files that can be edited using Qt Designer.
   - These UI files can be compiled into Python files using the provided `compile-ui.bat` (for Windows) or `compile-ui.sh` (for macOS/Linux) scripts.
+
+## License
+
+This project is licensed under the MIT License.
