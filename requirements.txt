@@ -1,0 +1,7 @@
+PyQt5
+telethon
+vk_api
+pyperclip
+pygsheets
+requests
+pyinstaller
