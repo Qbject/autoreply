@@ -2,7 +2,7 @@
 
 Autoreply is a cross-platform desktop application built on PyQt5 that allows users to connect their Telegram and VK accounts and automatically respond to incoming messages. The app offers a rich set of features, a verbose user-friendly GUI, and flexible configuration options.
 
-https://github.com/user-attachments/assets/a30f7b83-7a8e-4daf-b064-9adbed9553b8
+https://github.com/user-attachments/assets/9e76f19c-9273-4761-ab79-12503230c965
 
 ## Table of Contents
 
